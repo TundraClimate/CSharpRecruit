@@ -4,3 +4,10 @@
   href: _1.md
 - name: .NET SDKのインストール
   href: _2.md
+- name: C# プロジェクトの作成
+  href: _3.md
+  items:
+    - name: .csprojファイルの作成
+      href: _3_1.md
+    - name: .dllファイルのビルド
+      href: _3_2.md
