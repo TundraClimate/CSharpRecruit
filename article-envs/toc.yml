@@ -2,3 +2,5 @@
   href: index.md
 - name: VSCodeのインストール
   href: _1.md
+- name: .NET SDKのインストール
+  href: _2.md
